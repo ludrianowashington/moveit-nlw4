@@ -28,7 +28,7 @@ Nesta edição aprendi:
 - Criar um projeto Nextjs ```create-next-app```
 - Usar o Typescript no desenvolvimento
 - Usar o ContextApi do React
-
+- Usar a Api de Notificações do browser 
 
 
 ##  How to run the project
